@@ -39,3 +39,29 @@ a:hover {
     justify-content: center; 
     text-align: center;
 }
+
+.options {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    text-decoration: none;
+    padding: 1px;
+    margin: 6px;
+}
+
+.option-title {
+    padding: 2px;
+   
+}
+
+.option-text {
+    padding: 2px;
+}
+
+.options:hover {
+    background-color: #00909e;
+}
+
+
