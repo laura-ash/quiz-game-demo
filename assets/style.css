@@ -40,7 +40,7 @@ a:hover {
     text-align: center;
 }
 
-.options {
+.choice-container {
     display: flex;
     justify-content: center;
     align-content: center;
@@ -51,16 +51,16 @@ a:hover {
     margin: 6px;
 }
 
-.option-title {
+.choice-prefix {
     padding: 2px;
    
 }
 
-.option-text {
+.choice-text {
     padding: 2px;
 }
 
-.options:hover {
+.choice-container:hover {
     background-color: #00909e;
 }
 
